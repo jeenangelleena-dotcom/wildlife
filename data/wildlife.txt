@@ -1,0 +1,1 @@
+Animal: Tiger | Species: tiger | Habitat: Forest
