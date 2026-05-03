@@ -24,7 +24,8 @@ public class MainApp {
         System.out.println("9. Exit");
 
         System.out.print("Enter Choice: ");
-int ch = Integer.parseInt(sc.nextLine());
+        int ch = Integer.parseInt(sc.nextLine());
+        System.out.println(); 
         switch (ch) {
             case 1: service.addUser(); 
             System.out.println();
